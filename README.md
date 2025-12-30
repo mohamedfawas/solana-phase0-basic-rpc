@@ -1,0 +1,1 @@
+Go-based RPC client that calls Solana JSON-RPC endpoints with proper timeout handling and safe JSON parsing
